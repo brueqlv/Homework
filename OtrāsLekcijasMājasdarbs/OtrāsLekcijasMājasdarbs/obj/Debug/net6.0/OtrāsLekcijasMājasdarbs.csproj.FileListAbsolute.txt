@@ -1,0 +1,15 @@
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\OtrāsLekcijasMājasdarbs.exe
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\OtrāsLekcijasMājasdarbs.deps.json
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\OtrāsLekcijasMājasdarbs.runtimeconfig.json
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\OtrāsLekcijasMājasdarbs.dll
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\ref\OtrāsLekcijasMājasdarbs.dll
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\bin\Debug\net6.0\OtrāsLekcijasMājasdarbs.pdb
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.csproj.AssemblyReference.cache
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.AssemblyInfoInputs.cache
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.AssemblyInfo.cs
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.csproj.CoreCompileInputs.cache
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.dll
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\ref\OtrāsLekcijasMājasdarbs.dll
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.pdb
+C:\HomeworkRepo\OtrāsLekcijasMājasdarbs\OtrāsLekcijasMājasdarbs\obj\Debug\net6.0\OtrāsLekcijasMājasdarbs.genruntimeconfig.cache
