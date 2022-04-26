@@ -2,7 +2,7 @@
 
 
 using TrešāsLekcijasMājasdarbs;
-/*
+
 Telefons user1 = new Telefons();
 
 
@@ -54,7 +54,7 @@ car1.SpeedUp();
 car1.StopDriving();
 car1.Honk();
 
-*/
+
 
 Console.WriteLine("");
 Console.WriteLine("=================");
@@ -83,7 +83,7 @@ item1.ItemWeight = itemWeight;
 item1.ShowItem();
 
 
-/*
+
 Console.WriteLine("");
 Console.WriteLine("=================");
 Console.WriteLine("");
@@ -114,7 +114,7 @@ person1.YearsOld = person1.GetAge();
 person1.Sasveicināšanās();
 
 
-*/
+
 
 
 
