@@ -8,7 +8,7 @@ namespace TrešāsLekcijasMājasdarbs
         public double itemWidth;
         public double itemLenght;
 
-        public Prece()
+        public Prece(double itemHeight, double itemWidth, double itemLength)
         {
             ItemHeight = itemHeight;
             ItemWidth = itemWidth;
