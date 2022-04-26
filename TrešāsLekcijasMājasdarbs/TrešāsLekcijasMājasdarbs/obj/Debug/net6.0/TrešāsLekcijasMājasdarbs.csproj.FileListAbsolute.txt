@@ -1,0 +1,15 @@
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\bin\Debug\net6.0\TrešāsLekcijasMājasdarbs.exe
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\bin\Debug\net6.0\TrešāsLekcijasMājasdarbs.deps.json
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\bin\Debug\net6.0\TrešāsLekcijasMājasdarbs.runtimeconfig.json
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\bin\Debug\net6.0\TrešāsLekcijasMājasdarbs.dll
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\bin\Debug\net6.0\TrešāsLekcijasMājasdarbs.pdb
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.csproj.AssemblyReference.cache
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.AssemblyInfoInputs.cache
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.AssemblyInfo.cs
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.csproj.CoreCompileInputs.cache
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.dll
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\refint\TrešāsLekcijasMājasdarbs.dll
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.pdb
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\TrešāsLekcijasMājasdarbs.genruntimeconfig.cache
+C:\Users\Gundars\Documents\Homework\TrešāsLekcijasMājasdarbs\TrešāsLekcijasMājasdarbs\obj\Debug\net6.0\ref\TrešāsLekcijasMājasdarbs.dll
