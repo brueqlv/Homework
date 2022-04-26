@@ -62,7 +62,7 @@ Console.WriteLine("");
 
 
 
-Prece item1 = new Prece();
+
 
 Console.WriteLine("Lūdzu ievadi preces augstumu!");
 double itemHeight = double.Parse(Console.ReadLine());
@@ -75,6 +75,7 @@ double itemWidth = double.Parse(Console.ReadLine());
 Console.WriteLine("Lūdzu ievadi preces garumu!");
 double itemLenght = double.Parse(Console.ReadLine());
 
+Prece item1 = new Prece(itemHeight, itemWidth, itemLenght);
 
 Console.WriteLine("Lūdzu ievadi preces svaru!");
 double itemWeight = double.Parse(Console.ReadLine());
